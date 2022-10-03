@@ -1,0 +1,11 @@
+https://learn.microsoft.com/en-us/azure/governance/policy/overview
+https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure
+https://learn.microsoft.com/en-us/azure/governance/policy/concepts/assignment-structure
+https://learn.microsoft.com/en-us/azure/governance/policy/concepts/scope
+https://learn.microsoft.com/en-us/azure/governance/policy/concepts/attestation-structure
+https://learn.microsoft.com/en-us/azure/governance/policy/concepts/recommended-policies
+https://learn.microsoft.com/en-us/azure/governance/policy/concepts/regulatory-compliance
+https://learn.microsoft.com/en-us/azure/governance/policy/concepts/initiative-definition-structure
+https://learn.microsoft.com/en-us/security/benchmark/azure/baselines/policy-security-baseline
+
+
