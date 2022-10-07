@@ -1,0 +1,34 @@
+{
+  "mode": "All",
+  "policyRule": {
+    "if": {
+				"allOf": [
+						{
+								"field": "type",
+								"equals": "Microsoft.Storage/storageAccounts"
+						},
+						{
+								"field": "Microsoft.Storage/storageAccounts/supportsHttpsTrafficOnly",
+								"notEquals": "true"
+						}
+				]
+		},
+		"then": {
+				"effect": "[parameters('effectType')]"
+		}
+  },
+  "parameters": {
+    "effectType": {
+				"type": "String",
+				"defaultValue": "Deny",
+				"allowedValues": [
+						"Deny",
+						"Disabled"
+				],
+				"metadata": {
+						"displayName": "Effect",
+						"description": "Enable or disable the execution of the policy"
+				}
+		}
+  }
+}
