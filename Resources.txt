@@ -7,5 +7,8 @@ https://learn.microsoft.com/en-us/azure/governance/policy/concepts/recommended-p
 https://learn.microsoft.com/en-us/azure/governance/policy/concepts/regulatory-compliance
 https://learn.microsoft.com/en-us/azure/governance/policy/concepts/initiative-definition-structure
 https://learn.microsoft.com/en-us/security/benchmark/azure/baselines/policy-security-baseline
+https://learn.microsoft.com/en-us/azure/governance/policy/how-to/remediate-resources?tabs=azure-portal
+https://learn.microsoft.com/en-us/azure/governance/policy/concepts/exemption-structure
+https://learn.microsoft.com/en-us/azure/governance/policy/tutorials/create-custom-policy-definition
 
 
