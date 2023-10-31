@@ -1,1 +1,0 @@
-https://learn.microsoft.com/en-us/azure/governance/policy/tutorials/create-custom-policy-definition

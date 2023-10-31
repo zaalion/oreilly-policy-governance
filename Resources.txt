@@ -1,14 +1,53 @@
+Azure Governance and Compliance Course Resources
+================================================
+
+What is Azure Policy?
+---------------------
 https://learn.microsoft.com/en-us/azure/governance/policy/overview
+
+Azure Policy definition structure
+---------------------------------
 https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure
+
+Azure Policy assignment structure
+---------------------------------
 https://learn.microsoft.com/en-us/azure/governance/policy/concepts/assignment-structure
+
+Understand scope in Azure Policy
+--------------------------------
 https://learn.microsoft.com/en-us/azure/governance/policy/concepts/scope
+
+Azure Policy attestation structure
+---------------------------------
 https://learn.microsoft.com/en-us/azure/governance/policy/concepts/attestation-structure
+
+Recommended policies for Azure services
+---------------------------------------
 https://learn.microsoft.com/en-us/azure/governance/policy/concepts/recommended-policies
+
+Regulatory Compliance in Azure Policy
+-------------------------------------
 https://learn.microsoft.com/en-us/azure/governance/policy/concepts/regulatory-compliance
+
+Azure Policy initiative definition structure
+--------------------------------------------
 https://learn.microsoft.com/en-us/azure/governance/policy/concepts/initiative-definition-structure
+
+Azure security baseline for Azure Policy
+----------------------------------------
 https://learn.microsoft.com/en-us/security/benchmark/azure/baselines/policy-security-baseline
+
+Remediate non-compliant resources with Azure Policy
+---------------------------------------------------
 https://learn.microsoft.com/en-us/azure/governance/policy/how-to/remediate-resources?tabs=azure-portal
+
+Azure Policy exemption structure
+--------------------------------
 https://learn.microsoft.com/en-us/azure/governance/policy/concepts/exemption-structure
+
+Tutorial: Create a custom policy definition
+-------------------------------------------
 https://learn.microsoft.com/en-us/azure/governance/policy/tutorials/create-custom-policy-definition
+
 
 
